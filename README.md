@@ -1,2 +1,2 @@
-# icon-1-2-3
+# RG website features
 RG
